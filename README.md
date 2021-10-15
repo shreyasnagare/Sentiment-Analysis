@@ -1,4 +1,4 @@
-# sentiment-analysis
+# Sentiment-Analysis
 
 ## Docker Hub Images
 - https://hub.docker.com/repository/docker/shreyasnagare/sentiment-analysis-frontend
